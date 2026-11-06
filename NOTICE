@@ -1,0 +1,19 @@
+CARmove Vehicle Makes & Models
+==============================
+
+Dieses Repository ist ein Fork von vehicle-makes-models
+(https://github.com/gor3a/vehicle-makes-models) von Mina Sameh (gor3a).
+Fork-Stand: gor3a/vehicle-makes-models main, Commit ee99776470a4 (25.09.2026).
+
+Erweitert und gepflegt durch CARmove (Digital Labs), https://getcarmove.de.
+Das Original-Projekt steht nicht hinter CARmove.
+
+Lizenz der Daten (data/): Open Database License (ODbL) v1.0, Namensnennung wie in
+LICENSE-DATA des Originals. Unsere Änderungen und Ergänzungen der Daten stehen
+ebenfalls unter ODbL v1.0. Lizenz des Codes: MIT (siehe LICENSE).
+
+Herkunft je Datensatz: Feld "hinzugefuegt_von" (gor3a oder CARmove), dazu "stand"
+und "quelle". Von CARmove ergänzte Daten sind selbst erhoben (Herstellerangaben,
+Pressemappen, Prospekte als Einzelwert mit Quellenangabe). Nicht enthalten sind
+lizenzierte Fremddaten, amtliche Tabellen in 1:1-Übernahme sowie Händler- oder
+Kundendaten. Änderungen sind in CHANGELOG.md aufgeführt.

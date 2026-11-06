@@ -1,3 +1,20 @@
+# CARmove Vehicle Makes & Models
+
+**Fork von [gor3a/vehicle-makes-models](https://github.com/gor3a/vehicle-makes-models), erweitert durch CARmove (Digital Labs).**
+Das Original-Projekt steht nicht hinter CARmove; dies ist eine unabhängige, weiter gepflegte Fassung.
+
+- **Lizenz Daten** (alles unter `data/`): [Open Database License (ODbL) v1.0](https://opendatacommons.org/licenses/odbl/1-0/), Namensnennung wie in `LICENSE-DATA` des Originals (Mina Sameh / gor3a).
+- **Lizenz Code:** MIT (siehe `LICENSE`).
+- **Quelle:** github.com/gor3a/vehicle-makes-models, Stand 26.09.2026, übernommen am 06.11.2026.
+- **Änderungen durch CARmove** sind kenntlich: Jede von uns ergänzte oder korrigierte Zeile trägt `herkunft: carmove`; die Liste der Änderungen steht in `CHANGELOG.md`.
+- **Was hier nicht drin ist:** keine Daten aus anderen Quellen von CARmove (keine Händler-, Kunden- oder lizenzierten Fremddaten).
+
+Pull-Requests ans Original sind willkommen und freiwillig.
+
+---
+
+*(Darunter folgt unverändert das README des Originals.)*
+
 # vehicle-makes-models
 
 ![Free & open dataset of car makes, models, generations, and engine specs — 164 makes, 2,621 models, 7,169 generations, 30,390 engines. JSON, CSV, SQLite. ODbL.](docs/announcement-card.png)
